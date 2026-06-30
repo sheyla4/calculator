@@ -3,12 +3,12 @@
 A basic Python Calculator application that performs fundamental operations.
 
 ## Features 
-\✶ Addition ('add')
-\✶ Subtraction ('sub')
-\✶ Multiplication ('mul')
-\✶ Division ('div')
-\✶ Power ('pow')
-\✶ Square Root ('sqrt')
+\✶ Addition ('add') <br>
+\✶ Subtraction ('sub') <br>
+\✶ Multiplication ('mul') <br>
+\✶ Division ('div') <br>
+\✶ Power ('pow') <br>
+\✶ Square Root ('sqrt') <br>
 
 All operations are performed solely between two numbers.
 
